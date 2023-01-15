@@ -59,15 +59,15 @@ export default function App() {
      </div>
     </div>
     
-    {/* <div id='program'>
+    <div id='program'>
     <Training />
-    </div> */}
+    </div>
 
     <div id='pricing'>
       <Pricing/>
       </div>
     
-    {/* <Footer/> */}
+    <Footer/>
     </>
   );
 }
